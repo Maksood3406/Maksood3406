@@ -1,12 +1,20 @@
 ### Hi there, I'm Maksood 👋
+Aspiring Data Analyst | B.Tech Student | From India 🇮🇳
 
-Aspiring Developer | Passionate Learner | From India 🇮🇳
+- 🎓 B.Tech Student passionate about Data & Technology
+- 📊 Currently learning Data Analytics - Python, SQL, Excel, Power BI
+- 🔍 I love turning raw data into meaningful insights
+- 🌱 Currently exploring: Data Cleaning, Visualization & Statistics
+- 📈 Goal: To become a Professional Data Analyst
 
-- 🔭 I’m currently learning Web Development
-- 🌱 I’m looking to improve my coding skills everyday
-- 👨‍💻 All of my projects are available on my profile
-- 📫 How to reach me: Just ping me on GitHub
-- ⚡ Fun fact: I love to build things from scratch
+### 🛠️ Tech Stack
+- **Languages:** Python, SQL
+- **Tools:** Excel, Power BI, Tableau, MySQL
+- **Libraries:** Pandas, NumPy, Matplotlib
+- **Other:** Git, GitHub
+
+### 📫 Connect with me
+- GitHub: [@Maksood3406](https://github.com/Maksood3406)
 
 ---
-⭐️ From [Maksood3406](https://github.com/Maksood3406) with ❤️
+⚡ Fun fact: I love finding stories hidden in data!
