@@ -1,5 +1,5 @@
 ### Hi there, I'm Maksood 👋
-Aspiring Data Analyst | B.Tech Student | From India 🇮🇳
+Aspiring Data Analyst | B.Tech Student | From India 
 
 - 🎓 B.Tech Student passionate about Data & Technology
 - 📊 Currently learning Data Analytics - Python, SQL, Excel, Power BI
